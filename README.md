@@ -40,7 +40,7 @@ repobrief: 42 files, ~18,350 tokens
 
 ## Output shape
 
-```markdown
+````markdown
 # Repository: myproject
 
 ## Files
@@ -53,7 +53,7 @@ repobrief: 42 files, ~18,350 tokens
 ```py
 print("hello")
 ```
-```
+````
 
 ## Notes
 
